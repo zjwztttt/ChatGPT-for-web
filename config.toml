@@ -1,0 +1,32 @@
+[WEBUI]
+#定义ChatGPT的角色：system,user,assistant;需要重启服务才能生效
+chatgpt_user = "system"
+#定义用户访问的IP和端口
+web_host = '192.168.194.2'
+web_port = 5000
+
+[servers]
+
+#定义微信的key
+#app_id = 'wx785d706d159774fd'
+#app_secret = "4d1ebf3d84493c87428252389e6beac3"
+
+#定义ChatGPT的key
+Api_key = "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"
+
+#定义
+#定义语言模型可以去这个网址获取最新语言模型：https://platform.openai.com/docs/models
+text_model = 'gpt-3.5-turbo'
+code_model = 'code-davinci-002' #
+image_keyword = ["看", "画", "照片", "泰山", "黄山", "风景", "美女"] #生成图片关键字
+#False OR True
+server_debug = 'True'
+#False OR True
+server_load_dotenv = 'False'
+
+[database]
+#sql_type: MySQL #MySQL,SQLLite,SQLServer,OracleSQL
+#host: localhost
+#port: 3306
+#username: root
+#password: password123

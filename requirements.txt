@@ -1,0 +1,16 @@
+# pip install wechatpy
+# pip install cryptography
+# pip install pycryptodome
+# pip install pyautogui
+# pip install pyautogui
+# pip install zbar
+# pip install pyzbar
+# pip install WechatLogin
+# pip install qrcode
+# pip install matplotlib
+# pip install json
+# pip install Flask Jinja2
+# pip install pyyaml
+# pip install toml
+# pip install Flask Pillow openai
+# pip install --upgrade openai
