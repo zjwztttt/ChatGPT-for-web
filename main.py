@@ -7,7 +7,7 @@ import os
 from flask import Flask
 from markupsafe import escape
 
-openai.api_key = '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'
+openai.api_key = ''
 
 response = openai.Completion.create(
     model='text-davinci-003',
