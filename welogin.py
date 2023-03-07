@@ -1,5 +1,5 @@
-app_id = 'wx785d706d159774fd'
-app_secret = '4d1ebf3d84493c87428252389e6beac3'
+app_id = ''
+app_secret = ''
 
 # Import the necessary libraries
 import matplotlib.pyplot as plt
