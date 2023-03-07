@@ -2,7 +2,7 @@ import os
 import openai
 from flask import Flask, jsonify, escape, request, render_template
 
-openai.api_key = "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"
+openai.api_key = ""
 user_input="宇宙有多大？"
 print(user_input)
 completion = openai.ChatCompletion.create(
