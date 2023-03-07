@@ -8,11 +8,11 @@ web_port = 5000
 [servers]
 
 #定义微信的key
-#app_id = 'wx785d706d159774fd'
-#app_secret = "4d1ebf3d84493c87428252389e6beac3"
+#app_id = ''
+#app_secret = ""
 
 #定义ChatGPT的key
-Api_key = "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"
+Api_key = ""
 
 #定义
 #定义语言模型可以去这个网址获取最新语言模型：https://platform.openai.com/docs/models
